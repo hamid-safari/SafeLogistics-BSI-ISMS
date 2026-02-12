@@ -1,0 +1,1 @@
+In diesem Schritt wurden alle IT-Assets der SafeLogistics GmbH identifiziert. Die Segmentierung des Netzwerks erfolgte nach dem Prinzip der 'Least Privilege' und 'Separation of Duties', um die Ausbreitung von Schadsoftware (Lateral Movement) zu verhindern

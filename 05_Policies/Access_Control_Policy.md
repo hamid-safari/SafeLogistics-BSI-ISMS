@@ -4,6 +4,7 @@ Referenz Bausteine: BSI ORP.4 (Identitäts- und Berechtigungsmanagement) & SYS.1
 1. Zielsetzung
 
 Diese Richtlinie legt die Regeln für den Zugriff auf IT-Systeme und Daten der SafeLogistics GmbH fest. Ziel ist es, unbefugte Zugrichge zu verinderen and ensuring compliance with the principle of Least Privilege.
+
 2. Identitätsmanagement (Active Directory)
 
 Die Verwaltung aller Benutzerkonten erfolgt zentral über das Microsoft Active Directory (AD).

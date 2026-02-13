@@ -22,7 +22,7 @@ Wir nutzen das Role-Based Access Control (RBAC) Modell:
 
     Separation of Duties (SoD): Trennung zwischen administrativen und operativen Konten.
 
-    Tiered Administration Model: (طبق سوابق فنی تو) ادمین‌ها دارای دو حساب کاربری هستند؛ یکی برای کارهای روزمره و دیگری با دسترسی بالا (Domain Admin) که فقط برای مدیریت سرورها استفاده می‌شود.
+    Tiered Administration Model:  Mehrstufiges Verwaltungsmodell: Administratoren verfügen über zwei Benutzerkonten: eines für alltägliche Aufgaben und ein weiteres mit erweiterten Zugriffsrechten (Domänenadministrator), das ausschließlich für die Serververwaltung verwendet wird.
 
 4. Privilegierte Zugriffe (PAs)
 
